@@ -5,5 +5,5 @@
 | Alumno        | No. Cuenta |
 | ------------- | ------------- |
 | Pérez Villanueva Ricardo Enrique   | 315230884  |
-| Figueroa Sandoval Emiliano Gerardo |   |
+| Figueroa Sandoval Emiliano Gerardo | 315241774  |
 | Salas Martinez Mauricio Javier  | 311014859  |
